@@ -1,7 +1,9 @@
+
 # weather-application
 ### Navpreet Kaur
-### This is weather application where user can check current weather as well as weather of next five days. I named it travel online because user can check weather online before travel to that city.
+### This is weather application where user can check current weather as well as weather of next five days. I named it travel online because user can check weather online before travel to that city. I used to API's Open Weather Map and Geo services.
 <img width="1409" alt="Screen Shot 2021-05-04 at 2 29 05 PM" src="https://user-images.githubusercontent.com/71792075/117054204-dcfe2c80-ace7-11eb-887e-fe08b0c9787c.png">
 
-<img width="730" alt="Screen Shot 2021-05-04 at 2 38 11 PM" src="https://user-images.githubusercontent.com/71792075/117054217-dec7f000-ace7-11eb-8118-ee24a5a31f82.png">
+* After entering city name
 
+<img width="1411" alt="Screen Shot 2021-05-04 at 2 49 52 PM" src="https://user-images.githubusercontent.com/71792075/117054407-10d95200-ace8-11eb-88c2-6fa229c1766f.png">

@@ -115,7 +115,7 @@ h1{
     font-weight: 500;
 }
 h2{
-    font-size: 50px;
+    font-size: clamp(1rem, 4vw, 3rem);
 }
 .city{
     padding-top: 50px;

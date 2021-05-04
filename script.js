@@ -52,7 +52,7 @@ function pageReady() {
         if (cityTyped.value != "") {
             let city = cityTyped.value;
 
-            const API = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=fce8385e482d828553de63bf9408e19b`;
+            const API = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=761183b6dff3a93d3629e93c24550e5b`;
 
             fetch(API)
                 .then(result => result.json())
@@ -67,7 +67,7 @@ function pageReady() {
                 })
 
 
-            const api = `http://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=fce8385e482d828553de63bf9408e19b`;
+            const api = `http://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=761183b6dff3a93d3629e93c24550e5b`;
             fetch(api)
                 .then(result => result.json())
                 .then(data => {
